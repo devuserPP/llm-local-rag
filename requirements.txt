@@ -1,0 +1,12 @@
+wxPython
+PyPDF2
+torch
+ollama
+openai
+argparse
+jsonschema
+pyyaml
+beautifulsoup4
+lxml
+python-dotenv
+
