@@ -2,7 +2,7 @@
 
 ### Setup
 1. `git clone https://github.com/devuserPP/llm-local-rag`
-2. `cd dir`
+2. `cd llm-local-rag`
 3. `pip install -r requirements.txt`
 4. Install Ollama (https://ollama.com/download)
 5. `ollama pull llama3.1` (etc https://ollama.com/library)
